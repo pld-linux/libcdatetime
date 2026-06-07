@@ -3,13 +3,13 @@
 Summary:	Library to support cross-platform C date and time functions
 Summary(pl.UTF-8):	Biblioteka wspierająca wieloplatformowe funkcje obsługi daty i czasu w C
 Name:		libcdatetime
-Version:	20260520
+Version:	20260602
 Release:	1
 License:	LGPL v3+
 Group:		Libraries
 #Source0Download: https://github.com/libyal/libcdatetime/releases
 Source0:	https://github.com/libyal/libcdatetime/releases/download/%{version}/%{name}-alpha-%{version}.tar.gz
-# Source0-md5:	7d36eaa5720ea46d36de71ab1021bcbc
+# Source0-md5:	52bea2ba56ba5255653b091657153625
 URL:		https://github.com/libyal/libcdatetime/
 BuildRequires:	autoconf >= 2.71
 BuildRequires:	automake >= 1.6
